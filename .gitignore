@@ -76,3 +76,6 @@ dmypy.json
 setup.cfg
 
 .vscode
+scaffold.smi
+drd2_decorator/
+generated_molecules.parquet/
